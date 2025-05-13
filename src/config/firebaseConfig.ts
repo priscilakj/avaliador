@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-   apiKey: "AIzaSyCurk1O9u59u941JsF9HlzABXq0C4RA9Ko",
-  authDomain: "avaliador-83255.firebaseapp.com",
-  projectId: "avaliador-83255",
-  storageBucket: "avaliador-83255.firebasestorage.app",
-  messagingSenderId: "976828553565",
-  appId: "1:976828553565:web:7241a28f7148f5435df0b4",
-  measurementId: "G-MESTR7FX58"
+   apiKey: "AIzaSyDIw3ShG244eC395zVMq5IvWKo2it7OW8M",
+  authDomain: "crud-questions.firebaseapp.com",
+  projectId: "crud-questions",
+  storageBucket: "crud-questions.firebasestorage.app",
+  messagingSenderId: "684024395348",
+  appId: "1:684024395348:web:83e5023015cd66295b1fc1",
+  measurementId: "G-20K08WRQ35"
 };
 
 const app = initializeApp(firebaseConfig);
