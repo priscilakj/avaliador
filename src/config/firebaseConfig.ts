@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCurk1O9u59u941JsF9HlzABXq0C4RA9Ko",
+   apiKey: "AIzaSyCurk1O9u59u941JsF9HlzABXq0C4RA9Ko",
   authDomain: "avaliador-83255.firebaseapp.com",
   projectId: "avaliador-83255",
   storageBucket: "avaliador-83255.firebasestorage.app",
